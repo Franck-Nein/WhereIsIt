@@ -25,8 +25,8 @@
     "text.autoconfig.whereisit.option.clientOptions.rainbowMode": "Modo Arcoiris",
     "text.autoconfig.whereisit.option.clientOptions.rainbowMode.@Tooltip": "Sobreescribe los colores elegidos al ser activado.",
     "text.autoconfig.whereisit.option.clientOptions.textSizeModifier": "Modificador del Tamaño del Texto",
-    "text.autoconfig.whereisit.option.clientOptions.fadeOutTime.@PrefixText": "Rendering",
-    "text.autoconfig.whereisit.option.clientOptions.maximumResults": "Maximum returned results",
-    "text.autoconfig.whereisit.option.clientOptions.maximumResults.@PrefixText": "Search Preferences",
-    "text.autoconfig.whereisit.option.clientOptions.maximumResults.@Tooltip": "Set to 0 for no limit."
+    "text.autoconfig.whereisit.option.clientOptions.fadeOutTime.@PrefixText": "Renderizado",
+    "text.autoconfig.whereisit.option.clientOptions.maximumResults": "Resultados máximos",
+    "text.autoconfig.whereisit.option.clientOptions.maximumResults.@PrefixText": "Preferencias de busqueda",
+    "text.autoconfig.whereisit.option.clientOptions.maximumResults.@Tooltip": "Poner en 0 para quitar el limite."
 }
